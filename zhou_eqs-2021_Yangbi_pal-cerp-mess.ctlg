@@ -1,4 +1,4 @@
-# This is the seismic catalog presented in Zhou et al., EQS 2021
+# This is the seismic catalog presented in Zhou, Y., A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021). A High-Resolution Seismic Catalog for the 2021 MS6.4/Mw6.1 YangBi Earthquake Sequence, Yunnan, China: Application of AI picker and Matched Filter. Earthquake Science; 34(5): 390-398.doi: 10.29382/eqs-2021-0031
 # The format follows: origin_time, latitude, longitude, depth, magnitude
 # Note that time is in Beijing Time
 2021-05-13T08:58:08.580000Z,25.514834,100.107926,8.95,1.3

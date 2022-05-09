@@ -1,4 +1,4 @@
-# reference: Yijian Zhou, Han Yue, Lihua Fang, Shiyong Zhou, Li Zhao, Abhijit Ghosh; An Earthquake Detection and Location Architecture for Continuous Seismograms: Phase Picking, Association, Location, and Matched Filter (PALM). Seismological Research Letters 2021; doi: https://doi.org/10.1785/0220210111
+# Reference: Zhou, Y., H. Yue, L. Fang, S. Zhou, L. Zhao, & A. Ghosh (2021). An Earthquake Detection and Location Architecture for Continuous Seismograms: Phase Picking, Association, Location, and Matched Filter (PALM). Seismological Research Letters; 93(1): 413–425. doi: 10.1785/0220210111
 2019-07-04T15:35:26.550000Z,35.70828,-117.496322,11.08,0.19999999999999996
 2019-07-04T15:35:29.600000Z,35.708862,-117.497738,10.75,0.19999999999999996
 2019-07-04T15:42:48.180000Z,35.708362,-117.496208,10.88,0.4
